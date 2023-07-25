@@ -14,8 +14,7 @@
 
  
 
-<h2> Github Stats<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" wi </h2>
-<br>
+<h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35> </h2>
 
 <p align="center">
 <a href="https://github.com/N-45div">
