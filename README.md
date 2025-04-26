@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-45div&label=Profile%20views&color=0e75b6&style=flat" alt="n-45div" /> </p>
 
 
-- 🔭 I’m currently working on **building and desinging amazing ideas in web3**
+- 🔭 I’m currently admitted into Q2 builders cohort of **Turbin3** and working as an intern at swedish legal tech startup.
 
 - 👯 I’m looking to collaborate on **Web3/Web2 based projects**
 
