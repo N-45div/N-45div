@@ -16,8 +16,6 @@
 
 ## 🎯 **About Me**
 
-🔭 **Currently Building:** Q2 Builders Cohort at **Turbin3** + Interning at a Swedish Legal Tech Startup  
-
 👯 **Looking to Collaborate:** Web3/Web2 Based Projects  
 
 🌱 **Always Learning:** New technologies and best practices  
