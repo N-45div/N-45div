@@ -73,16 +73,6 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=n-45div&theme=onedark&row=1&column=7)
-
-</div>
-
----
-
 ## 📈 **Activity Graph**
 
 <div align="center">
