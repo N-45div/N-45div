@@ -9,18 +9,20 @@
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/divij45">LinkedIn</a>
   &nbsp;·&nbsp;
+  <a href="https://x.com/godlovesu_n">X</a>
+  &nbsp;·&nbsp;
   <a href="mailto:ndivij2004@gmail.com">Email</a>
 </p>
 
 ---
 
-I work on practical GenAI infrastructure and product systems: **RAG pipelines, agentic workflows, MCP servers, tool-calling agents, evaluation loops, and full-stack AI interfaces**.
+I work on practical GenAI systems: **RAG pipelines, agentic workflows, MCP servers, tool-calling agents, evaluation loops, and full-stack AI interfaces**.
 
-Most of my work sits at the boundary between model behavior and real software: retrieval, workflow automation, observability, human review, data systems, and usable product surfaces.
+My projects usually sit where model behavior meets real software: retrieval, workflow automation, observability, human review, data systems, and usable product surfaces.
 
-## Selected Systems
+## Shipped Systems
 
-| System | What it proves |
+| System | Why it matters |
 |---|---|
 | [EverydayElastic](https://github.com/N-45div/EverydayElastic) | Enterprise knowledge search and incident response with hybrid retrieval, grounded answers, Slack alerts, and Cloud Run deployment. |
 | [ElitOrc-AI](https://github.com/N-45div/ElitOrc-AI) | Multimodal clinical reasoning with image analysis, case retrieval, vector memory, and structured diagnostic support. |
@@ -29,13 +31,13 @@ Most of my work sits at the boundary between model behavior and real software: r
 | [ChainGuard](https://github.com/N-45div/ChainGuard) | Multi-chain blockchain forensics through an MCP server for wallet risk, fraud detection, and cross-chain correlation. |
 | [AssetFlow](https://github.com/N-45div/AssetFlow) | Tokenized asset servicing with eligibility controls, payout windows, redemption queues, and issuer operations. |
 
-## Build Pattern
+## How I Think About AI Products
 
 ```txt
 Unstructured data -> retrieval -> reasoning -> tool calls -> workflow -> product surface
 ```
 
-I like systems where the AI layer is not a chatbot wrapper, but part of a working loop:
+The AI layer should not be a thin chatbot wrapper. I prefer systems with a working loop:
 
 - Retrieval with citations, reranking, memory, and source traceability
 - Agents that call real tools and expose their state clearly
@@ -59,7 +61,7 @@ I like systems where the AI layer is not a chatbot wrapper, but part of a workin
   <img src="https://img.shields.io/badge/Workflow%20Automation-111827?style=flat-square" alt="Workflow Automation" />
 </p>
 
-## Current Focus
+## Current Interests
 
 - Production-grade RAG and agent systems
 - MCP servers for real operational tools
@@ -88,6 +90,9 @@ Open to serious AI engineering work, GenAI product collaborations, MCP/RAG syste
   </a>
   <a href="https://linkedin.com/in/divij45">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/godlovesu_n">
+    <img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:ndivij2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
